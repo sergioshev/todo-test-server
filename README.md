@@ -10,10 +10,15 @@ npm install
 
 ```bash
 # Starts the server with Hot Reloading
-# Run webpack through webpack.config.dev.js
+# Run webpack through
 npm run dev
 
 ```
+
+#### Use
+
+You can test the API at `http://localhost:3001`
+
 
 #### Additional notes
 
