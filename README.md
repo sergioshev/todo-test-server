@@ -16,6 +16,5 @@ npm run dev
 ```
 
 #### Additional notes
-Api documentation
 
-[ApiDoc](https://app.swaggerhub.com/apis-docs/sergioshev/todo-test-server/1.0.0)
+[Api documentation](https://app.swaggerhub.com/apis-docs/sergioshev/todo-test-server/1.0.0)
